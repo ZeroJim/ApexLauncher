@@ -196,7 +196,7 @@
 /*     */       {
 /*     */         public void run() {
 /*     */           try {
-/* 172 */             local7.setPage(new URL("http://mcupdate.tumblr.com/"));
+/* 172 */             local7.setPage(new URL("http://niflheimcraft.tumblr.com/"));
 /*     */           } catch (Exception localException) {
 /* 174 */             localException.printStackTrace();
 /* 175 */             local7.setText("<html><body><font color=\"#808080\"><br><br><br><br><br><br><br><center><h1>Failed to update news</h1><br>" + localException.toString() + "</center></font></body></html>");
